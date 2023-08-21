@@ -24,3 +24,7 @@ with open('intro.txt','r' ) as intro:
             elif first_character =="C":
                 C +=1
 
+print("total lines starting with 'a':",a)
+print("total lines starting with 'b':",b)
+print("total lines starting with 'c':",c)
+
